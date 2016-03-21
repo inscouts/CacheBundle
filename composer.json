@@ -21,5 +21,10 @@
   {
     "psr-0": { "Beryllium\\CacheBundle": "" }
   },
-  "target-dir": "Beryllium/CacheBundle"
+  "target-dir": "Beryllium/CacheBundle",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.3.x-dev"
+    }
+  }
 }
