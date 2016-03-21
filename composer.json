@@ -1,5 +1,5 @@
 {
-  "name": "inscouts/CacheBundle",
+  "name": "inscouts/cache-bundle",
   "description": "Fork of Beryllium/CacheBundle.",
   "keywords": ["memcache","cache"],
   "type": "symfony-bundle",
