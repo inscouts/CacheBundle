@@ -1,14 +1,15 @@
 {
-  "name": "Beryllium/CacheBundle",
-  "description": "Provides an interface to Memcache for Symfony2 applications",
+  "name": "inscouts/CacheBundle",
+  "description": "Fork of Beryllium/CacheBundle.",
   "keywords": ["memcache","cache"],
   "type": "symfony-bundle",
   "license": "MIT",
   "authors": 
   [
     { 
-      "name": "Kevin Boyd (aka Beryllium)",
-      "homepage": "http://www.beryllium.ca/"
+      "name": "Christian Mayer",
+      "email": "christian@fox21.at",
+      "homepage": "http://fox21.at"
     }
   ],
   "require": 
